@@ -1,0 +1,6 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\chloe\OneDrive\Documents\CMSC 699\IndepStudyGame\StarterProject\Graphics\Main.cpp(245): warning C4715: 'initType': not all control paths return a value
+  All 373 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graphics.vcxproj -> C:\Users\chloe\OneDrive\Documents\CMSC 699\IndepStudyGame\StarterProject\x64\Release\Graphics.exe
